@@ -638,12 +638,6 @@ src={birthdayVideo}
 
 
 
-<h3>
-
-ARMY FOREVER 💜✨
-
-</h3>
-
 
 
 </div>
